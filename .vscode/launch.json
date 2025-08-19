@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringPalindrom",
+            "request": "launch",
+            "mainClass": "KickOff.Medium.StringPalindrom",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
             "name": "PerimeterOfEquilateralTringle",
             "request": "launch",
             "mainClass": "KickOff.Simple.PerimeterOfEquilateralTringle",
