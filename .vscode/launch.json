@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PerimeterOfEquilateralTringle",
+            "request": "launch",
+            "mainClass": "KickOff.Simple.PerimeterOfEquilateralTringle",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
+            "name": "PerimeterOfCircle",
+            "request": "launch",
+            "mainClass": "KickOff.Simple.PerimeterOfCircle",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfEquilateralTringle",
+            "request": "launch",
+            "mainClass": "KickOff.Simple.AreaOfEquilateralTringle",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfRactangle",
+            "request": "launch",
+            "mainClass": "KickOff.Simple.AreaOfRactangle",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
+            "name": "Areaoftringle",
+            "request": "launch",
+            "mainClass": "KickOff.Simple.Areaoftringle",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
+            "name": "Areaofcircle",
+            "request": "launch",
+            "mainClass": "KickOff.Simple.Areaofcircle",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
             "name": "Largestnumber",
             "request": "launch",
             "mainClass": "Array.Largestnumber",
