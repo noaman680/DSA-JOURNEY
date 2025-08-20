@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConcatinationOfArray",
+            "request": "launch",
+            "mainClass": "Array.Simple.ConcatinationOfArray",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
             "name": "StringPalindrom",
             "request": "launch",
             "mainClass": "KickOff.Medium.StringPalindrom",
