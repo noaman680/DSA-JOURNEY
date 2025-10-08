@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "permutation1",
+            "request": "launch",
+            "mainClass": "Array.Simple.permutation1",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
             "name": "ConcatinationOfArray",
             "request": "launch",
             "mainClass": "Array.Simple.ConcatinationOfArray",
