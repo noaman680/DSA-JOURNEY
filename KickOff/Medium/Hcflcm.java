@@ -82,6 +82,5 @@ public class HCF_LCM_Calculator {
         // The result is cast to a long to handle cases where the LCM exceeds the max int value.
         return (long) a * (b / hcf);
     }
-    */
 }
-}
+

@@ -12,7 +12,7 @@ public class StringPalindrom {
             System.out.println(inpuString + " String is Palindrom");
         }
         else{
-            System.out.println(inpuString + " String is not Palindrom ");
+            System.out.println(inpuString + " String is not Palindrom ");                                                            
         }
         sc.close();
     }

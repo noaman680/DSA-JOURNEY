@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hcflcm",
+            "request": "launch",
+            "mainClass": "KickOff.Medium.Hcflcm",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
+            "name": "Ceilingofnumber",
+            "request": "launch",
+            "mainClass": "Array.Simple.Ceilingofnumber",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
+            "name": "FindMinMax",
+            "request": "launch",
+            "mainClass": "Array.Simple.FindMinMax",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
             "name": "permutation1",
             "request": "launch",
             "mainClass": "Array.Simple.permutation1",
