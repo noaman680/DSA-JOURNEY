@@ -1,4 +1,3 @@
-package Array.Simple;
 
 public class Ceilingofnumber {
     public static void main(String[] args) {

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Countsegments",
+            "request": "launch",
+            "mainClass": "Countsegments",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
+            "name": "Ceilingofnumber",
+            "request": "launch",
+            "mainClass": "Ceilingofnumber",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
+            "name": "Numberofgoodpair",
+            "request": "launch",
+            "mainClass": "Numberofgoodpair",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
             "name": "Hcflcm",
             "request": "launch",
             "mainClass": "KickOff.Medium.Hcflcm",

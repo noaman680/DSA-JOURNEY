@@ -1,4 +1,3 @@
-package Array.Simple;
 
 import java.util.Arrays;
 

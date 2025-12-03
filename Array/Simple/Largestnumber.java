@@ -1,5 +1,3 @@
-package Array.Simple;
-
 import java.util.Arrays;
 
 public class Largestnumber {
