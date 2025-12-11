@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pangram",
+            "request": "launch",
+            "mainClass": "Pangram",
+            "projectName": "DSA-JOURNEY_8eaee85c"
+        },
+        {
+            "type": "java",
             "name": "Countsegments",
             "request": "launch",
             "mainClass": "Countsegments",
